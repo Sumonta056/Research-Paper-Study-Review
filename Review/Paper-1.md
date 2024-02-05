@@ -4,7 +4,7 @@
 ### 🚨 Personal Review : 
 - Good Paper 
 
-### 👏 Author Background 👏: 
+### 👏 Author Background : 
 - ECE Department Faculty of NSU
 
 ### 🤷 Domain : 
@@ -32,7 +32,7 @@
 ### 📚 Dataset:
 - The dataset was collected from BanFakeNews which collected data from different sources and created a brand-new dataset on Bangla news. They chose the dataset from twenty-two of Bangladesh’s most widely read and reputable news portals
 
-### 😡 Limitation : 
+### 😡 Limitation (Future Work) : 
 - Blockchain technology has not yet been implemented in practical applications because it is still in its early phases
 - Data-driven machine learning is always susceptible to intentionally corrupted data, which will pose difficulty for the model to perform, and hence might completely fool the model.
 

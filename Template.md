@@ -3,7 +3,7 @@
 ### 🚨 Personal Review : 
 
 
-### 👏 Author Background 👏: 
+### 👏 Author Background : 
 
 
 ### 🤷 Domain : 
@@ -21,7 +21,7 @@
 ### 📚 Dataset:
 
 
-### 😡 Limitation : 
+### 😡 Limitation (Future Work) : 
 
 
 ### 🫣 Compare with Other Work :

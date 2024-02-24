@@ -43,7 +43,7 @@
 
 ### 📚 Dataset:
 
-![alt text](../assets/Paper-5/image.png)
+![alt text](../assets/Paper5/image.png)
 
 ### 😡 Limitation :
 

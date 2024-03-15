@@ -2,7 +2,7 @@
 
 ------ **🤔 Research Paper Resource with Personal Review 🤔** ------
 
-## 🧠 Research & Thesis Paper Study and Documentation : [➡️ Click Here](./Paper%20Reviews/README.md)
+## 🧠 Research & Thesis Paper Study and Documentation : ( [➡️ Click Here](./Paper%20Reviews/README.md) )
 
 <hr>
 
@@ -10,13 +10,15 @@
 
 ### Latex Resources 👍
 
+- **[🎥 Latex Tutorials Bangla | Latex in Overleaf | Latex A to Z](https://youtube.com/playlist?list=PLgLZ-Gaqn8XfRDyZD_EOM9Cb_cmVr8pME&si=LNw912aixJNYEM7c)**
+
 - [Intregrate Bangla Font in Latex](https://youtu.be/k80gVGmTtTs?si=X3f979A00hEhTxy0)
 
 ```latex
 \font \bangla ="Kalpurush:script=beng"
 ```
 
-- [Add Two Image Side By Side](https://youtu.be/k80gVGmTtTs?si=X3f979A00hEhTxy0)
+- Add Two Image Side By Side
 
 ```latex
 \begin{figure}%

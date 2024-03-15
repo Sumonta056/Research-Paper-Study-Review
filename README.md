@@ -2,22 +2,29 @@
 
 ------ **🤔 Research Paper Resource with Personal Review 🤔** ------
 
-## 🧠 Research & Thesis Paper Study and Documentation
+## 🧠 Research & Thesis Paper Study and Documentation : [➡️ Click Here](./Paper%20Reviews/README.md)
 
 <hr>
 
------- **📚 Thesis - Research Paper List 📚** ------
-
 </div>
 
-- **✍️ Toward News Authenticity - Synthesizing Natural Language Processing and Human Expert Opinion to Evaluate News : ([👉 Paper Link](./Good%20Paper/Toward_News_Authenticity_Synthesizing_Natural_Language_Processing_and_Human_Expert_Opinion_to_Evaluate_News.pdf) ) ([👉 My Review](./Review/Paper-1.md) )**
+### Latex Resources 👍
 
-- **✍️ Sentiment Analysis on Bangladesh Cricket with Support Vector Machine : ([👉 Paper Link](./Average%20Paper/sentiment%20cricket.pdf) ) ([👉 My Review](./Review/Paper-2.md) )**
+- [Intregrate Bangla Font in Latex](https://youtu.be/k80gVGmTtTs?si=X3f979A00hEhTxy0)
 
-- **✍️ Chat2VIS: Generating Data Visualizations via Natural Language Using ChatGPT, Codex and GPT-3 Large Language Models : ([👉 Paper Link](./Good%20Paper/Chat2VIS_Generating_Data_Visualizations_via_Natural_Language_Using_ChatGPT_Codex_and_GPT-3_Large_Language_Models.pdf) ) ([👉 My Review](./Review/Paper-3.md))**
+```latex
+\font \bangla ="Kalpurush:script=beng"
+```
 
-- **✍️ Stress Detection using Natural Language Processing and Machine Learning over social media interactions : ([👉 Paper Link](./Good%20Paper/Stress%20detection%20using%20natural%20language%20processing%20and%20machine%20learning%20over%20social%20interactions.pdf) ) ([👉 My Review](./Review/Paper-4.md))**
+- [Add Two Image Side By Side](https://youtu.be/k80gVGmTtTs?si=X3f979A00hEhTxy0)
 
-- **✍️ Verse-Based Emotion Analysis of Bengali Music from Lyrics Using Machine Learning and Neural Network Classifiers : ([👉 Paper Link](./Average%20Paper/Verse-Based%20Emotion%20Analysis%20of%20Bengali%20Music.pdf) ) ([👉 My Review](./Review/Paper-5.md))**
-
-- **✍️ A Mixed Deep Learning Based Model to Early Detection of Depression : ([👉 Paper Link](./Good%20Paper/A_Mixed_Deep_Learning_Based_Model_to_Early_Detection_of_Depression.pdf) ) ([👉 My Review](./Review/Paper-6.md))**
+```latex
+\begin{figure}%
+    \centering
+    \subfloat[\centering {\bangla "শ্রীমদ্ভগবদ্গীতা যথাযথ" অনুবাদকঃ অভয়চরণারবিন্দ ভক্তিবেদান্ত স্বামী প্রভুপাদ}]{{\includegraphics[width=7.2cm]{Assets/cover_provupad.png} }}%
+    \qquad
+    \subfloat[\centering {\bangla "যথার্থ গীতা" অনুবাদকঃ স্বামী শ্রী অড়গড়ানন্দজী}]{{\includegraphics[width=5cm]{Assets/cover-aouragondho.png} }}%
+    \caption{Front Cover of Selected Bengali Translation of the Bhagavad Gita}%
+    \label{fig:example}%
+\end{figure}
+```

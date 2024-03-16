@@ -10,13 +10,13 @@
 
 ### Latex Resources 👍
 
-<br>
+<hr>
 
 - **[🎥 Latex Tutorials Bangla | Latex in Overleaf | Latex A to Z](https://youtube.com/playlist?list=PLgLZ-Gaqn8XfRDyZD_EOM9Cb_cmVr8pME&si=LNw912aixJNYEM7c)**
 
 - **[🎥 How to Use Reference, Citation and BibTex in LaTex](https://youtu.be/hwTpPW6N9og?si=aphUOn9wlhl5TYWS)**
 
-<br>
+<hr>
 
 - [Intregrate Bangla Font in Latex](https://youtu.be/k80gVGmTtTs?si=X3f979A00hEhTxy0)
 
